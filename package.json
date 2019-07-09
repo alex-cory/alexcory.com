@@ -17,11 +17,13 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "dev": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
+    "predeployOnly": "yarn build",
+    "gh-pages": "gh-pages -d build",
+    "deploy": "aws s3 sync build/ s3://alexcory.com"
   },
   "eslintConfig": {
     "extends": "react-app"
