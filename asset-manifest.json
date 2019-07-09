@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/alexcory.com/static/css/main.2cce8147.chunk.css",
-    "main.js": "/alexcory.com/static/js/main.8eb54a3c.chunk.js",
-    "main.js.map": "/alexcory.com/static/js/main.8eb54a3c.chunk.js.map",
-    "runtime~main.js": "/alexcory.com/static/js/runtime~main.a1c497f8.js",
-    "runtime~main.js.map": "/alexcory.com/static/js/runtime~main.a1c497f8.js.map",
-    "static/js/2.b41502e9.chunk.js": "/alexcory.com/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/alexcory.com/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/alexcory.com/index.html",
-    "precache-manifest.bb37a804fed45c044583b52779ff0604.js": "/alexcory.com/precache-manifest.bb37a804fed45c044583b52779ff0604.js",
-    "service-worker.js": "/alexcory.com/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/alexcory.com/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/alexcory.com/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.34de6062.chunk.css",
+    "main.js": "/static/js/main.f8dad662.chunk.js",
+    "main.js.map": "/static/js/main.f8dad662.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.c75db462.chunk.js": "/static/js/2.c75db462.chunk.js",
+    "static/js/2.c75db462.chunk.js.map": "/static/js/2.c75db462.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d64e672d82602df6d6389cc85296064a.js": "/precache-manifest.d64e672d82602df6d6389cc85296064a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map"
   }
 }
