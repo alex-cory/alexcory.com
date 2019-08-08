@@ -7,7 +7,7 @@ import { media } from '../utils'
  */
 const PeelyContainer = styled.p`
   color: #fff;
-  font-family: Avenir Next, Helvetica Neue, Helvetica, Tahoma, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1em;
   font-weight: 700;
   margin: 0px;
