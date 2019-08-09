@@ -22,7 +22,7 @@ const App = () => {
     <Snowflakes innerRef={tiltRef}>
       <SocialMedia />
       <Center>
-        <Peeled phrase='Alex Cory' color='#1B2735' />
+        <Peeled phrase='Alex Cory' color='#536282' />
         <Quote>Knowledge is Powder</Quote>
         <Snowboard innerRef={boardRef} />
       </Center>
