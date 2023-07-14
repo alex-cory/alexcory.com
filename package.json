@@ -16,7 +16,7 @@
     "vanilla-tilt": "^1.7.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "dev": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
